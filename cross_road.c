@@ -10,6 +10,7 @@
 #define SOUTH 2
 #define EAST  3
 #define MAX 100
+
 //四种方向
 char NWSE[4][6] = { "North","West","South","East" };
 //车辆结构体
